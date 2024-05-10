@@ -200,25 +200,25 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://live.fanmingming.com/tv/CGTN记录.png" group-title="卫视IPV6",CGTN记录
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
-#EXTINF:-1 tvg-name="北京淘动漫" tvg-logo="https://live.fanmingming.com/tv/北京淘动漫.png" group-title="北京睛彩淘",北京淘动漫
+#EXTINF:-1 tvg-name="北京淘动漫" tvg-logo="https://live.fanmingming.com/tv/北京淘动漫.png" group-title="睛彩北京",北京淘动漫
 https://epg.pw/stream/3d3aeed48cadfc64ea05a4c1fe129f334ef0a697746cca2f5422570d65905e1e.ctv
-#EXTINF:-1 tvg-name="北京淘剧场" tvg-logo="https://live.fanmingming.com/tv/北京淘剧场.png" group-title="北京睛彩淘",北京淘剧场
+#EXTINF:-1 tvg-name="北京淘剧场" tvg-logo="https://live.fanmingming.com/tv/北京淘剧场.png" group-title="睛彩北京",北京淘剧场
 https://epg.pw/stream/b3d9170b02fd38cbcdcba5ec5ee0e0ac7f3039edaf0466ba253d64ff7a67121e.ctv
-#EXTINF:-1 tvg-name="北京淘娱乐" tvg-logo="https://live.fanmingming.com/tv/北京淘娱乐.png" group-title="北京睛彩淘",北京淘娱乐
+#EXTINF:-1 tvg-name="北京淘娱乐" tvg-logo="https://live.fanmingming.com/tv/北京淘娱乐.png" group-title="睛彩北京",北京淘娱乐
 https://epg.pw/stream/54040a8279718baeeda7dd5b56f2c29c398b35dc4bdd50ab89b0d26bc5d0013f.ctv
-#EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" group-title="北京睛彩淘",北京淘电影
+#EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" group-title="睛彩北京",北京淘电影
 https://epg.pw/stream/f0c3813abc40c510795f81312cadcfd40b44d9c5c789a8306e8dc1e36824e597.ctv
-#EXTINF:-1 tvg-name="北京淘精彩" tvg-logo="https://live.fanmingming.com/tv/北京淘精彩.png" group-title="北京睛彩淘",北京淘精彩
+#EXTINF:-1 tvg-name="北京淘精彩" tvg-logo="https://live.fanmingming.com/tv/北京淘精彩.png" group-title="睛彩北京",北京淘精彩
 https://epg.pw/stream/6c4a95bb621502278f77924692a5714d0a518fc4abe3ca2a2a729ee225198e43.ctv
-#EXTINF:-1 tvg-name="北京萌宠tv" tvg-logo="https://live.fanmingming.com/tv/北京萌宠tv.png" group-title="北京睛彩淘",北京萌宠tv
+#EXTINF:-1 tvg-name="北京萌宠tv" tvg-logo="https://live.fanmingming.com/tv/北京萌宠tv.png" group-title="睛彩北京",北京萌宠tv
 https://epg.pw/stream/b5a90c55461a29080d1d4be1473be9461be42399907bfe381b8b67e30ce5f698.ctv
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="北京睛彩淘",睛彩广场舞
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="睛彩北京",睛彩广场舞
 https://epg.pw/stream/ed22a04ac23065668e16cf77817505c95d01ab75ecfb591447e9fb0d28c31709.ctv
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="北京睛彩淘",睛彩竞技
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="睛彩北京",睛彩竞技
 https://epg.pw/stream/549e84cd163f93b4a2679a28e499b3642e2adb15654a7666f7496af8ec0c7400.ctv
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="北京睛彩淘",睛彩篮球
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="睛彩北京",睛彩篮球
 https://epg.pw/stream/92b0e81d226e306781d0e6576b03599ff19a5500950b464cd412f019e41bb820.ctv
-#EXTINF:-1 tvg-name="睛彩少年" tvg-logo="https://live.fanmingming.com/tv/睛彩少年.png" group-title="北京睛彩淘",睛彩少年
+#EXTINF:-1 tvg-name="睛彩少年" tvg-logo="https://live.fanmingming.com/tv/睛彩少年.png" group-title="睛彩北京",睛彩少年
 https://epg.pw/stream/b5f948a78522fd0d662076790a6c1fa9dd1cbabae5d3d5ef52f468072326c43a.ctv
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="纪录频道",求索动物
 https://epg.pw/stream/be1340af2f2ad4ed21deaa95825ea7b5e43eb25ad3eccd490d5d38e3836d3122.m3u8
