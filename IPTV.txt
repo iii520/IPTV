@@ -1,3 +1,17 @@
+超高清4K,#genre#
+LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+4K「体育」,https://7pal.short.gy/5sport
+CCTV4K,https://tv.iill.top/4k/cctv4k
+CCTV8K,https://tv.iill.top/4k/cctv8k
+奥林匹克体育,https://tv.iill.top/4k/cctv16
+江苏频道「UHD」,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+纯享4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+华数4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+
+
+
 粤港澳,#genre#
 凤凰中文,https://epg.pw/stream/a7d73b5ffe9e9d33a8b774a4df3d623b2ba01a36f6ef70f20d1f3f9b27836330.ctv
 凤凰资讯,https://tv.iill.top/youtube/phoenixtvhk
