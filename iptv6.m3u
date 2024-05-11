@@ -24,6 +24,7 @@ https://epg.pw/stream/93288c72284d41747bd0e2e60f327c1bad7dd2904e84acfc5d36cb5d45
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="粤港澳",凤凰中文
 https://epg.pw/stream/a7d73b5ffe9e9d33a8b774a4df3d623b2ba01a36f6ef70f20d1f3f9b27836330.ctv
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="粤港澳",凤凰资讯
+https://epg.pw/stream/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
 https://tv.iill.top/youtube/phoenixtvhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="粤港澳",凤凰香港
 https://epg.pw/stream/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8
@@ -46,8 +47,6 @@ https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 https://yang-1989.eu.org/tv/meiyamovie_twn
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="粤港澳",澳门莲花
 https://yang-1989.eu.org/mo/lhws
-#EXTINF:-1 tvg-name="澳门Macau，https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8" tvg-logo="https://live.fanmingming.com/tv/澳门Macau，https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8.png" group-title="粤港澳",澳门Macau，https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-undefined
 #EXTINF:-1 tvg-name="澳门资讯" tvg-logo="https://live.fanmingming.com/tv/澳门资讯.png" group-title="粤港澳",澳门资讯
 https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="粤港澳",中视新闻
