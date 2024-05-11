@@ -26,10 +26,7 @@ https://epg.pw/stream/a7d73b5ffe9e9d33a8b774a4df3d623b2ba01a36f6ef70f20d1f3f9b27
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="粤港澳",凤凰资讯
 https://epg.pw/stream/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="粤港澳",凤凰香港
-https://epg.pw/stream/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8
-http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-#EXTINF:-1 tvg-name="TVB千禧台" tvg-logo="https://live.fanmingming.com/tv/TVB千禧台.png" group-title="粤港澳",TVB千禧台
-https://epg.pw/stream/cc4843948d5165a37585d2af3382d35f7f324ddf3e789edb466441f77e4a2987.ctv
+https://epg.pw/stream/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.m3u8,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 tvg-name="TVB星河（粤）" tvg-logo="https://live.fanmingming.com/tv/TVB星河（粤）.png" group-title="粤港澳",TVB星河（粤）
 https://epg.pw/stream/186dab52eabcdf6b47765bf93dc370a250af463f1759ce68025a20c01a9ba0d8.m3u8
 #EXTINF:-1 tvg-name="TVB星河（国）" tvg-logo="https://live.fanmingming.com/tv/TVB星河（国）.png" group-title="粤港澳",TVB星河（国）
