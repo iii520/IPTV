@@ -1,4 +1,4 @@
-﻿{
+{
   "urls": [
 {
       "url": "http://xhztv.top/xhz.json",
@@ -12,6 +12,11 @@
       "url": "http://肥猫.live",
       "name": "🚀肥猫"
     },
+  {
+      "url": "http://8.210.232.168/xc.json",
+      "name": "🚀星辰"
+    },
+
     {
       "url": "http://饭太硬.top/tv",
       "name": "🚀饭太硬"
@@ -21,8 +26,8 @@
       "name": "🚀小米"
     },
     {
-      "url": "https://wds.ecsxs.com/230989.json",
-      "name": "🚀春盈天下"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name": "🚀香雅晴"
     },
     {
       "url": "https://100km.top/0",
@@ -33,16 +38,16 @@
       "name": "🚀巧技"
     },
     {
-      "url": "https://download.kstore.space/download/5242/冉神.json",
-      "name": "🚀冉神接口"
+      "url": "http://清清.摸鱼儿.top",
+      "name": "🚀清清摸鱼"
     },
     {
-      "url": "http://tvkj.top/DC/tvys/svip.json",
-      "name": "🚀天微影视"
+      "url": "https://pastebin.com/raw/5NHaxyGR",
+      "name": "🚀道长"
     },
     {
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-      "name": "🚀南风"
+      "url": "https://szyyds.cn/tv/x.json",
+      "name": "🚀小马-短剧"
     },
     {
       "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
