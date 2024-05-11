@@ -41,8 +41,8 @@ https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 https://yang-1989.eu.org/tv/meiyamovie_twn
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="粤港澳",澳门莲花
 https://yang-1989.eu.org/mo/lhws
-#EXTINF:-1 tvg-name="澳门资讯" tvg-logo="https://live.fanmingming.com/tv/澳门资讯.png" group-title="粤港澳",澳门资讯
-https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧台.png" group-title="粤港澳",龙华戏剧
+https://yes.scdn.eu.org/hi2/vod/litv-longturn18-avc1_3000000=4-mp4a_64000=2.m3u8?content=litv-longturn18&md5=655a5068d95bfd8460920b93f8a2dd33&expires=1716718903
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="粤港澳",中视新闻
 https://epg.pw/stream/ed13ea5143923c2c84f4e283d83fffa7331cf83268840b3121a64b941523cfaa.m3u8
 #EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://live.fanmingming.com/tv/中天亚洲.png" group-title="粤港澳",中天亚洲
@@ -331,6 +331,8 @@ https://epg.pw/stream/8f9c6cc958f8727b3d4292a016d1fd96f54576616fa08d90116ec3f33d
 https://epg.pw/stream/f88e1073f477b74a010c5a63ded067e08488d519f49313a1192f68e20269fc71.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="影视频道",CCTV-6 电影
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧台.png" group-title="粤港澳",龙华戏剧
+https://yes.scdn.eu.org/hi2/vod/litv-longturn18-avc1_3000000=4-mp4a_64000=2.m3u8?content=litv-longturn18&md5=655a5068d95bfd8460920b93f8a2dd33&expires=1716718903
 #EXTINF:-1 tvg-name="红色轮播台" tvg-logo="https://live.fanmingming.com/tv/红色轮播台.png" group-title="影视频道",红色轮播台
 https://tv.iill.top/migu/hslb
 #EXTINF:-1 tvg-name="经典香港电影" tvg-logo="https://live.fanmingming.com/tv/经典香港电影.png" group-title="影视频道",经典香港电影
