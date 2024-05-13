@@ -49,10 +49,7 @@
       "url": "https://szyyds.cn/tv/x.json",
       "name": "🚀小马-短剧"
     },
-    {
-      "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
-      "name": "🚀云星日记"
-    },
+  
     {
       "url": "http://home.jundie.top:81/top98.json",
       "name": "🚀俊佬"
