@@ -5,6 +5,7 @@ Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 4K「体育」,https://7pal.short.gy/5sport
 广东4K,https://epg.pw/stream/213b11b4f6ff16e4b18b178226219df04df5637dbc22400dfbbf95853fbfdbee.m3u8
 北京有线4K,https://epg.pw/stream/63ffe4549f7f4e25e5e749b0163e9390bad49fbbb7e9ed3592e48b185a709149.ctv
+纪实科教8K,https://epg.pw/stream/f48875235ce63399ced8a8f27167ceea2fda31675f2b15a967a49f1ec6bba9f7.m3u8
 江苏频道「UHD」,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 爱上4K-ipv6,https://epg.pw/stream/18281dabb95ff987bed827a89b608b0e790d22edcc58345650a85fb234ddd3ae.m3u8
 欢笑剧场4K,https://epg.pw/stream/93288c72284d41747bd0e2e60f327c1bad7dd2904e84acfc5d36cb5d45ae2028.m3u8
@@ -35,6 +36,7 @@ Astro爱奇艺,https://epg.pw/stream/6ee79279c924668a783f1bc8f665c127450c1780aa5
 淘娱乐,https://epg.pw/stream/e93a3535ca2eaef6df3ae49285187f14b011563bab377a0ad4a9b05896f2fa6e.ctv
 淘精彩,https://epg.pw/stream/4815f44ff81c309ba8df37b0c6dd9ecc8cdae23572065b788b460f3d2ba0608c.ctv
 北京IPTV-4K,https://epg.pw/stream/63ffe4549f7f4e25e5e749b0163e9390bad49fbbb7e9ed3592e48b185a709149.ctv
+黑莓电影,https://epg.pw/stream/21efa24e1165aac234622e9d7ebee1e890cb95ddbfdec04e12a3f95305593cbb.m3u8
 CHC影迷电影,http://42.5.185.253:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
 CHC动作电影,http://123.189.36.143:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -44,6 +46,11 @@ CHC家庭影院,http://123.189.36.143:9901/tsfile/live/1105_1.m3u8?key=txiptv&pl
 第一剧场,http://123.189.36.143:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 风云剧场,http://222.223.118.222:2180/live/fyjc/index.m3u8
 CCTV怀旧剧场,http://222.223.118.222:2180/live/hjjc/index.m3u8
+港台电影,https://epg.pw/stream/9733a9faedac1ecb653defe0c92c8c29c8e1f07b0869bd241b1b2ad7737c1dde.ctv
+恐怖电影,https://epg.pw/stream/3b0ae037ce273fc0ee50d7f486cce61e31f262e7c76e4226ce275a48d9df9715.ctv
+经典电影,https://epg.pw/stream/d4baec00a49587ccf75e5ef088b53fdaa8493917b07ff64d5f0a7d9e67cd11c5.ctv
+科幻电影,https://epg.pw/stream/41ba0d0408633f6c232d5188878a6c5d93ab3d6e0b3dea6aa8fcf00ea9f900e9.m3u8
+粤语电影,https://epg.pw/stream/00bab23aa58ad5a652a57827f7595bbb8dede51a27b6e7a5acc433e84223eda0.ctv
 湖南电影,http://175.10.228.184:9998/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北影视,http://58.53.152.170:9901/tsfile/live/faacts/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁影视,http://42.5.185.253:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
