@@ -19,6 +19,14 @@
       "name": "🚀小米"
     },
     {
+      "url": "http://xhztv.top/xhz.json",
+      "name": "🚀小盒子"
+    },
+    {
+      "url": "http://xhztv.top/4k.json",
+      "name": "🚀小盒子4K"
+    },
+    {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
       "name": "🚀香雅晴"
     },
