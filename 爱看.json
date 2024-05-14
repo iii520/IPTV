@@ -397,7 +397,7 @@
 			"key": "360资源",
 			"name": "360┃资源",
 			"type": 1,
-			"api": "https://360zy.com/api.php/provide/vod/from/360m3u8/",
+			"api": "https://360zy.com/api.php/provide/vod/",
 			"categories": [
 				"动作片",
 				"喜剧片",
