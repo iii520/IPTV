@@ -211,9 +211,10 @@ CCTV精品纪录,https://epg.pw/stream/fe3a205d934b2b27c4115d4de9ec78b2ef279ffcc
 
 
 少儿频道,#genre#
-金鹰卡通HD,http://171.108.239.76:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通HD,https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8
 福建少儿HD,http://27.154.214.56:8888/rtp/239.61.2.9:8048
 哈哈炫动HD,http://222.71.11.180:4022/udp/239.45.1.55:5140
+嘉佳卡通HD,http://1b6467f415.iok.la:9931/tsfile/live/1053_1.m3u8
 卡酷动漫HD,http://222.71.11.180:4022/udp/239.45.0.8:5140
 动漫秀场HD,http://1b6467f415.iok.la:9931/tsfile/live/1057_1.m3u8
 黑莓动画HD,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
@@ -224,22 +225,15 @@ CCTV精品纪录,https://epg.pw/stream/fe3a205d934b2b27c4115d4de9ec78b2ef279ffcc
 哈哈炫动,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 
 地方台-广东FHD,#genre#
-大湾区卫视,http://ddns.cyruslee.top:8888/udp/239.77.0.215:5146
-广东珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146
-广东珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.114:5146
+大湾区卫视,https://epg.pw/stream/f8e0ebc17c330fb1f1993f67b3df12c2967c9aeb697ad56adae5613211babe42.m3u8
 广东珠江,http://1b6467f415.iok.la:9931/tsfile/live/1011_1.m3u8
-广东新闻,http://ddns.cyruslee.top:8888/udp/239.77.0.173:5146
+广东珠江,https://epg.pw/stream/967c330a56e8f2fed10ea053ac29b132d29e323680b5e20a53e3af6bcf7b2f54.m3u8
+广东珠江,https://epg.pw/stream/72a0372fa098a8e50619f1d4f1b5d3185bbd8c1e0198402d5fb8e3d08995bfac.m3u8
 广东新闻,http://1b6467f415.iok.la:9931/tsfile/live/1012_1.m3u8
-广东民生,http://ddns.cyruslee.top:8888/udp/239.77.0.225:5146
 广东民生,http://1b6467f415.iok.la:9931/tsfile/live/1013_1.m3u8
-广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
-广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.168:5146
 广东体育,http://1b6467f415.iok.la:9931/tsfile/live/1014_1.m3u8
-广东经济科教,http://ddns.cyruslee.top:8888/udp/239.77.0.85:5146
 广东经济科教,http://1b6467f415.iok.la:9931/tsfile/live/1016_1.m3u8
-广东少儿,http://ddns.cyruslee.top:8888/udp/239.77.0.250:5146
 广东少儿,http://1b6467f415.iok.la:9931/tsfile/live/1019_1.m3u8
-嘉佳卡通,http://ddns.cyruslee.top:8888/udp/239.77.0.179:5146
 嘉佳卡通,http://1b6467f415.iok.la:9931/tsfile/live/1053_1.m3u8
 广州综合,http://ddns.cyruslee.top:8888/udp/239.253.43.71:5146
 广州综合,http://1b6467f415.iok.la:9931/tsfile/live/1137_1.m3u8
