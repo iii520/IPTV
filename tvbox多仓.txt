@@ -19,6 +19,10 @@
       "name": "🚀小米"
     },
     {
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
+     "name": "🚀王小二放牛"
+    },
+    {
       "url": "http://xhztv.top/xhz.json",
       "name": "🚀小盒子"
     },
