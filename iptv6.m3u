@@ -193,14 +193,11 @@ https://tv.cry33.com/ys4k.php?id=8k
 
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="卫视频道",浙江国际
 https://epg.pw/stream/6dbed436da44d000ac876a7064b0105ea7338af2cc61e6857b264356cf2a91b3.m3u8
-#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="卫视频道",浙江国际
 https://epg.pw/stream/04f8e81b2de97b2248ae306a5154c7623036b7698fcab51d564fd0ff8a31c564.m3u8
 #EXTINF:-1 tvg-name="安徽国际" tvg-logo="https://live.fanmingming.com/tv/安徽国际.png" group-title="卫视频道",安徽国际
 https://epg.pw/stream/1eb09cf726ec2497ee5437d88b8656e1cb6babd5de645393a62a735fb791f2c2.ctv
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png" group-title="卫视频道",湖南国际
 https://epg.pw/stream/ce0e820550a014ed90fc9aadf883f4133c6b5d44a65f4689d68215956ea57748.m3u8
-#EXTINF:-1 tvg-name="河南国际" tvg-logo="https://live.fanmingming.com/tv/河南国际.png" group-title="卫视频道",河南国际
-http://[240e:97d:201c:201::20]/tvcdn.stream3.hndt.com/tv/65b7751f017e1000d8998f0900000000_transios/playlist.m3u8?wsSecret=2f2bbd7ed25418c44f3736fb345a0173&wsTime=1715749810&wsSession=7ea4206bdf5d45c1d1ff9867-171574154132718&wsIPSercert=4636a865bcd847770159a89124383437&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://live.fanmingming.com/tv/北京国际.png" group-title="卫视频道",北京国际
 https://epg.pw/stream/48ce1655f67ddb04f2f124a816e97665c1a6c0604751021d820fa3cb4ad19c61.ctv
 #EXTINF:-1 tvg-name="山西黄河国际" tvg-logo="https://live.fanmingming.com/tv/山西黄河国际.png" group-title="卫视频道",山西黄河国际
@@ -290,10 +287,13 @@ https://epg.pw/stream/f8e0ebc17c330fb1f1993f67b3df12c2967c9aeb697ad56adae5613211
 https://epg.pw/stream/c079dca70700c8feb4f52998795bbdb5dc4b21508edc7b98e99429c0492694f3.m3u8
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.com/tv/安多卫视.png" group-title="卫视频道",安多卫视
+http://stream.qhbtv.com/adws/sd/live.m3u8
+http://stream.qhbtv.com/adws/sd/live.m3u8?_upt=443cf2d41715773857
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视频道",康巴卫视
+https://pluslive.kangbatv.com/1/sd/live.m3u8?auth_key=1715774554-0-0-6003348edf1f5cff4addf8954d166f16
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV-1
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
@@ -661,8 +661,6 @@ https://epg.pw/stream/0fc3a6eca2f0ae9b83ca2ea16e66d620c0f80a80df85450f5a92ba24ac
 https://epg.pw/stream/866804d9ec902efc4390291e022bf77d5392e8aa92281f929ed68adb08bfc2d5.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="少儿-动画",优漫卡通
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 tvg-name="东森YOYO" tvg-logo="https://live.fanmingming.com/tv/东森YOYO.png" group-title="少儿-动画",东森YOYO
-https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.com/tv/黑龙江少儿.png" group-title="少儿-动画",黑龙江少儿
 https://epg.pw/stream/b224aa4bf37d7f0ce36cf6401cc6363fe676845b2fa75e0b1ed27c9b343161aa.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.com/tv/黑龙江少儿.png" group-title="少儿-动画",黑龙江少儿
@@ -717,16 +715,6 @@ https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b0423581
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 #EXTINF:-1 tvg-name="昆塔•反转星球" tvg-logo="https://live.fanmingming.com/tv/昆塔•反转星球.png" group-title="少儿-动画",昆塔•反转星球
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-#EXTINF:-1 tvg-name="英语动画01" tvg-logo="https://live.fanmingming.com/tv/英语动画01.png" group-title="少儿-动画",英语动画01
-https://epg.pw/stream/bdbc98811b133a2adcb2c1910e9648b1fce8541e7c639351b4ec83e0cdac0bb8.m3u8
-#EXTINF:-1 tvg-name="英语动画02" tvg-logo="https://live.fanmingming.com/tv/英语动画02.png" group-title="少儿-动画",英语动画02
-https://epg.pw/stream/bdbc98811b133a2adcb2c1910e9648b1fce8541e7c639351b4ec83e0cdac0bb8.m3u8
-#EXTINF:-1 tvg-name="英语动画03" tvg-logo="https://live.fanmingming.com/tv/英语动画03.png" group-title="少儿-动画",英语动画03
-https://epg.pw/stream/005fdf4620e7bc681f4cdd056c98a51f829e80e88218f2df5924e26419a96083.m3u8
-#EXTINF:-1 tvg-name="英语动画04" tvg-logo="https://live.fanmingming.com/tv/英语动画04.png" group-title="少儿-动画",英语动画04
-https://epg.pw/stream/b54f4d7ffb584ffb6787361ed936f9bc932c4f40665b43c3ed93b19c19a85764.m3u8
-#EXTINF:-1 tvg-name="英语动画05" tvg-logo="https://live.fanmingming.com/tv/英语动画05.png" group-title="少儿-动画",英语动画05
-https://epg.pw/stream/e5f411bc0d5a599d22278edae8c495626e43dbec478b411de9dd1f5eb83e183f.m3u8
 
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="地方台",湖南爱晚
 http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
@@ -888,18 +876,6 @@ https://epg.pw/stream/26483cb6bba6622ac7668f90447549c7e5f972c57a136b95f0f1db38e5
 https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="经典功夫台" tvg-logo="https://live.fanmingming.com/tv/经典功夫台.png" group-title="港澳台测试-随时失效",经典功夫台
 http://43.138.170.29:35455/yy/1355002394
-#EXTINF:-1 tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/莲花卫视.png" group-title="港澳台测试-随时失效",莲花卫视
-https://yang-1989.eu.org/mo/lhws
-#EXTINF:-1 tvg-name="东森综合" tvg-logo="https://live.fanmingming.com/tv/东森综合.png" group-title="港澳台测试-随时失效",东森综合
-https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
-#EXTINF:-1 tvg-name="东森美洲" tvg-logo="https://live.fanmingming.com/tv/东森美洲.png" group-title="港澳台测试-随时失效",东森美洲
-https://epg.pw/stream/41fd1dc90b335e2c39f811e013a8bc45d966113d4b326afb8bed450591629da1.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="港澳台测试-随时失效",中天新闻
-https://epg.pw/stream/5505e75a3434b988ce9bf81b0898c3f376ca9031bb7dca37c6ff9adc6005e6eb.m3u8
-#EXTINF:-1 tvg-name="Astro华丽台" tvg-logo="https://live.fanmingming.com/tv/Astro华丽台.png" group-title="港澳台测试-随时失效",Astro华丽台
-https://epg.pw/stream/8734b99e7d1e3eb18c69035ec9149114e671fcb1b41c72bdc6d523b3bfca541d.ctv
-#EXTINF:-1 tvg-name="Astro爱奇艺" tvg-logo="https://live.fanmingming.com/tv/Astro爱奇艺.png" group-title="港澳台测试-随时失效",Astro爱奇艺
-https://epg.pw/stream/6ee79279c924668a783f1bc8f665c127450c1780aa5b29b5d90e7386ab0c804e.ctv
 
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/91/12fc78c83deb7c3e65724759b1d91c_180_135.jpg?1637028274" group-title="虎牙解说", 微竞-琴琴nice
 https://www.goodiptv.club/huya/913155
