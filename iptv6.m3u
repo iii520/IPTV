@@ -547,6 +547,9 @@ http://118.112.48.194:8178/udp/239.93.42.32:5140
 https://epg.pw/stream/7e8bd46ec7e304d6a7de3d46047d5190807b488c4d2fa4404a31134080f52a38.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="体育-纪实",纬来体育
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://live.fanmingming.com/tv/纬来育乐.png" group-title="体育-纪实",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+rtmp://220.130.201.73/sat/tv701
 #EXTINF:-1 tvg-name="MOMO体育" tvg-logo="https://live.fanmingming.com/tv/MOMO体育.png" group-title="体育-纪实",MOMO体育
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育-纪实",CCTV-5 体育
