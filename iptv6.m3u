@@ -667,16 +667,6 @@ https://epg.pw/stream/f39eb4b8e496b25598289e72357d96f5b87c3ebc5d1923fe43f6293767
 https://epg.pw/stream/d1b1bd81517d5d10b6e05fce7eee9c34d9a92491ced6b24f8b550d902cd8c582.ctv
 #EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://live.fanmingming.com/tv/内蒙古少儿.png" group-title="少儿-动画",内蒙古少儿
 https://epg.pw/stream/fd7f26799bc50c13550838d171c838132e948eaada65dc928f0a741cc3569cb3.m3u8
-#EXTINF:-1 tvg-name="英语动画01" tvg-logo="https://live.fanmingming.com/tv/英语动画01.png" group-title="少儿-动画",英语动画01
-https://epg.pw/stream/bdbc98811b133a2adcb2c1910e9648b1fce8541e7c639351b4ec83e0cdac0bb8.m3u8
-#EXTINF:-1 tvg-name="英语动画02" tvg-logo="https://live.fanmingming.com/tv/英语动画02.png" group-title="少儿-动画",英语动画02
-https://epg.pw/stream/bdbc98811b133a2adcb2c1910e9648b1fce8541e7c639351b4ec83e0cdac0bb8.m3u8
-#EXTINF:-1 tvg-name="英语动画03" tvg-logo="https://live.fanmingming.com/tv/英语动画03.png" group-title="少儿-动画",英语动画03
-https://epg.pw/stream/005fdf4620e7bc681f4cdd056c98a51f829e80e88218f2df5924e26419a96083.m3u8
-#EXTINF:-1 tvg-name="英语动画04" tvg-logo="https://live.fanmingming.com/tv/英语动画04.png" group-title="少儿-动画",英语动画04
-https://epg.pw/stream/b54f4d7ffb584ffb6787361ed936f9bc932c4f40665b43c3ed93b19c19a85764.m3u8
-#EXTINF:-1 tvg-name="英语动画05" tvg-logo="https://live.fanmingming.com/tv/英语动画05.png" group-title="少儿-动画",英语动画05
-https://epg.pw/stream/e5f411bc0d5a599d22278edae8c495626e43dbec478b411de9dd1f5eb83e183f.m3u8
 #EXTINF:-1 tvg-name="喜仔动画" tvg-logo="https://live.fanmingming.com/tv/喜仔动画.png" group-title="少儿-动画",喜仔动画
 https://epg.pw/stream/c3295a1da1da5e22edbabe3065f02b2f45195425391ec7b1ccdb8234cf43fe74.ctv
 #EXTINF:-1 tvg-name="大兵动画" tvg-logo="https://live.fanmingming.com/tv/大兵动画.png" group-title="少儿-动画",大兵动画
@@ -695,7 +685,36 @@ https://epg.pw/stream/46fc32fdd04da786ce7339c0fd4bde58f7d2ff3b53c257aea0a6ff3482
 https://epg.pw/stream/4998617bc45241ef19dd7c94582885aa9d69393bf908a60d0282eebc9a8eaa04.ctv
 #EXTINF:-1 tvg-name="小小天才搞笑视频" tvg-logo="https://live.fanmingming.com/tv/小小天才搞笑视频.png" group-title="少儿-动画",小小天才搞笑视频
 https://epg.pw/stream/f48783f73b5204df6193cb69e7ad1ffe9fb8f4d1fe7289d390af29a87a6d9268.ctv
-
+#EXTINF:-1 tvg-name="倒霉特熊" tvg-logo="https://live.fanmingming.com/tv/倒霉特熊.png" group-title="少儿-动画",倒霉特熊
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+#EXTINF:-1 tvg-name="雲朵妈妈" tvg-logo="https://live.fanmingming.com/tv/雲朵妈妈.png" group-title="少儿-动画",雲朵妈妈
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+#EXTINF:-1 tvg-name="反转星球" tvg-logo="https://live.fanmingming.com/tv/反转星球.png" group-title="少儿-动画",反转星球
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+#EXTINF:-1 tvg-name="熊大熊二" tvg-logo="https://live.fanmingming.com/tv/熊大熊二.png" group-title="少儿-动画",熊大熊二
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+#EXTINF:-1 tvg-name="狮子王國" tvg-logo="https://live.fanmingming.com/tv/狮子王國.png" group-title="少儿-动画",狮子王國
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+#EXTINF:-1 tvg-name="棉花糖和云朵妈妈" tvg-logo="https://live.fanmingming.com/tv/棉花糖和云朵妈妈.png" group-title="少儿-动画",棉花糖和云朵妈妈
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+#EXTINF:-1 tvg-name="熊出没•变形记" tvg-logo="https://live.fanmingming.com/tv/熊出没•变形记.png" group-title="少儿-动画",熊出没•变形记
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+#EXTINF:-1 tvg-name="猪猪侠•英雄猪少年" tvg-logo="https://live.fanmingming.com/tv/猪猪侠•英雄猪少年.png" group-title="少儿-动画",猪猪侠•英雄猪少年
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
+#EXTINF:-1 tvg-name="大卫贝肯•倒霉特工熊" tvg-logo="https://live.fanmingming.com/tv/大卫贝肯•倒霉特工熊.png" group-title="少儿-动画",大卫贝肯•倒霉特工熊
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+#EXTINF:-1 tvg-name="昆塔•反转星球" tvg-logo="https://live.fanmingming.com/tv/昆塔•反转星球.png" group-title="少儿-动画",昆塔•反转星球
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+#EXTINF:-1 tvg-name="英语动画01" tvg-logo="https://live.fanmingming.com/tv/英语动画01.png" group-title="少儿-动画",英语动画01
+https://epg.pw/stream/bdbc98811b133a2adcb2c1910e9648b1fce8541e7c639351b4ec83e0cdac0bb8.m3u8
+#EXTINF:-1 tvg-name="英语动画02" tvg-logo="https://live.fanmingming.com/tv/英语动画02.png" group-title="少儿-动画",英语动画02
+https://epg.pw/stream/bdbc98811b133a2adcb2c1910e9648b1fce8541e7c639351b4ec83e0cdac0bb8.m3u8
+#EXTINF:-1 tvg-name="英语动画03" tvg-logo="https://live.fanmingming.com/tv/英语动画03.png" group-title="少儿-动画",英语动画03
+https://epg.pw/stream/005fdf4620e7bc681f4cdd056c98a51f829e80e88218f2df5924e26419a96083.m3u8
+#EXTINF:-1 tvg-name="英语动画04" tvg-logo="https://live.fanmingming.com/tv/英语动画04.png" group-title="少儿-动画",英语动画04
+https://epg.pw/stream/b54f4d7ffb584ffb6787361ed936f9bc932c4f40665b43c3ed93b19c19a85764.m3u8
+#EXTINF:-1 tvg-name="英语动画05" tvg-logo="https://live.fanmingming.com/tv/英语动画05.png" group-title="少儿-动画",英语动画05
+https://epg.pw/stream/e5f411bc0d5a599d22278edae8c495626e43dbec478b411de9dd1f5eb83e183f.m3u8
 
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="地方台",湖南爱晚
 http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
