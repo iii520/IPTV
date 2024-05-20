@@ -6,8 +6,12 @@
       "name": "🚀肥猫"
     },
   {
-      "url": "http://8.210.232.168/xc.json",
-      "name": "🚀星辰"
+      "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+      "name": "🚀D佬"
+    },
+    {
+      "url": "http://152.32.170.60/ddx/TVBox/raw/branch/master/t4.json",
+      "name": "🚀精简砂锅"
     },
 
     {
