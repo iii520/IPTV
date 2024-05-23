@@ -1,0 +1,87 @@
+{
+      "key": "jqq",
+      "name": "剧圈圈｜XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./XBPQ.jar",
+      "ext": {
+        "分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html",
+        "分类": "电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman" 
+      }
+    },
+{
+            "key": "vidhub",
+            "name": "vid┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "简介": "<span>&&</span>",
+                "嗅探词": ".mp4#.m3u8#.flv",
+                " 数组": "class=\"module-item-titlebox\">&&</div>",
+                "副标题": "module-item-text\">&&</div>",
+                "图片": "data-src=\"&&\"",
+                "线路数组": "data-dropdown-value&&</small>",
+                "线路标题": "<span>&&[替换:</span><small>>>共]+集",
+                "分类url": "https://vidhub1.cc/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+            }
+        },
+{
+            "key": "玉兔",
+            "name": "玉兔采集",
+            "type": 1,
+            "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1
+        },
+{
+      "key": "www.bahaoku.com",
+      "name": "🏕8号影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XBPQ.jar",
+      "ext": "{
+      \"请求头\":\"手机\",
+      \"副标题\": \"pic-text text-right\\\">&&</span>\",
+      \"线路数组\": \"more text-muted pull-right&&</div>\",
+      \"线路标题\": \"title\\\">&&<\",
+      \"播放数组\": \"class=\\\"stui-content__playlist playlink clearfix&&</ul>\",
+      \"播放链接\": \"href='&&'\",
+      \"分类\":\"国产电视剧$13#电视剧$2#电影$1#动漫$4#综艺$3\",
+      \"分类url\":\"http://www.bahaoys.com/frim/{cateId}-{catePg}.html\",
+      \"搜索模式\": \"1\",
+      \"搜索url\": \"http://www.bahaoys.com/search.php?page={pg}&searchword={wd}\"}"
+    },
+{
+            "key": "qimaoys",
+            "name": "七猫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "ext": {
+                "主页url": "http://www.qimaoym.com",
+                "数组":"class=\"module-item-cover\">&&class=\"module-item\">",
+                "标题": "title=\"&&\"",
+                "副标题": "module-item-text\">&&</div>",
+                "链接":"href=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "搜索url": "http://www.qimaoym.com/index.php/vod/search/wd/{wd}",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "线路数组": "module-tab-item tab-item\"&&</div>",
+                 "线路标题": "<span>&&</small>[替换:</span><small>>>🍥]+集",
+                 "播放数组":"class=\"module-blocklist\">&&</div",
+                 "播放列表":"<a&&</a",
+                 "播放标题":"<span&&</span",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$28#少儿$38",
+                "分类url": "http://www.qimaoym.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
+        }},
