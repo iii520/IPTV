@@ -15,11 +15,20 @@
     },
 
     {
-      "url": "http://饭太硬.top/tv",
+      "url": "http://www.饭太硬.com/tv/",
       "name": "🚀饭太硬"
     },
     {
-      "url": "http://xhww.fun:63/小米/DEMO.json",
+      "url": "http://ok321.top/tv",
+      "name": "🚀OK叼炸天"
+    },
+
+    {
+      "url": "https://d.kstore.space/download/6474/tvbox/api.json",
+      "name": "🚀小白"
+    },   
+    {
+      "url": "http://xhww.fun/小米/DEMO.json",
       "name": "🚀小米"
     },
     {
