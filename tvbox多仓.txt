@@ -10,8 +10,8 @@
       "name": "🚀D佬"
     },
     {
-      "url": "http://152.32.170.60/ddx/TVBox/raw/branch/master/t4.json",
-      "name": "🚀精简砂锅"
+      "url": "https://tv.youdu.fan:666/%E5%B0%8F%E7%B1%B3/",
+      "name": "🚀小米"
     },
 
     {
