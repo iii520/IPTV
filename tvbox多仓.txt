@@ -67,8 +67,15 @@
       "url": "https://szyyds.cn/tv/x.json",
       "name": "🚀小马-短剧"
     },
-  
     {
+      "url": "https://tv.youdu.fan:666/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/",
+      "name": "🚀少儿频道"
+    },
+    {
+      "url": "https://tv.youdu.fan:666/%E5%8A%A8%E6%BC%AB%E9%A2%91%E9%81%93/",
+      "name": "🚀动漫频道"
+    },
+   {
       "url": "http://home.jundie.top:81/top98.json",
       "name": "🚀俊佬" 
     }
