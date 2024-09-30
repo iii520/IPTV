@@ -4,7 +4,7 @@
       "key": "17k",
       "name": "一起看TV",
       "type": 0,
-      "api": "https://y.17ktv.top/cjapi/mc10/vod/xml",
+      "api": "http://y.17ktv.top/cjapi/mc10/vod/xml.html",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
