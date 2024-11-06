@@ -2,7 +2,7 @@
   "urls": [
 
     {
-      "url": "http://肥猫.live",
+      "url": "http://xhztv.top/dc/肥猫/api.json",
       "name": "🚀肥猫"
     },
   {
@@ -42,6 +42,10 @@
     {
       "url": "http://xhztv.top/4k.json",
       "name": "🚀小盒子4K"
+    },
+    {
+      "url": "http://xhztv.top/dc/%E5%B0%8F%E9%B1%BC%E5%B9%B2/api.json",
+      "name": "🚀小鱼干"
     },
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
