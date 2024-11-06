@@ -15,12 +15,12 @@
     },
 
     {
-      "url": "http://www.饭太硬.com/tv/",
+      "url": "http://xhztv.top/dc/%E9%A5%AD%E5%A4%AA%E7%A1%AC/api.json",
       "name": "🚀饭太硬"
     },
     {
-      "url": "http://ok321.top/tv",
-      "name": "🚀OK叼炸天"
+      "url": "http://xhztv.top/xhz",
+      "name": "🚀小盒子"
     },
 
     {
@@ -28,16 +28,16 @@
       "name": "🚀小白"
     },   
     {
-      "url": "http://xhww.fun/小米/DEMO.json",
-      "name": "🚀小米"
+      "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+      "name": "🚀魔改"
     },
     {
-      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
-     "name": "🚀王小二放牛"
+      "url": "https://d.kstore.space/download/6474/tvbox/api.json",
+     "name": "🚀PG"
     },
     {
-      "url": "http://xhztv.top/xhz.json",
-      "name": "🚀小盒子"
+      "url": "https://dxawi.github.io/0/0.json",
+      "name": "🚀dxawi"
     },
     {
       "url": "http://xhztv.top/4k.json",
@@ -56,8 +56,8 @@
       "name": "🚀巧技"
     },
     {
-      "url": "http://清清.摸鱼儿.top",
-      "name": "🚀清清摸鱼"
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "🚀俊佬"
     },
     {
       "url": "https://pastebin.com/raw/5NHaxyGR",
@@ -76,8 +76,8 @@
       "name": "🚀动漫频道"
     },
    {
-      "url": "http://home.jundie.top:81/top98.json",
-      "name": "🚀俊佬" 
+      "url": "http://xhztv.top/dc/%E7%A5%9E%E4%BB%99/api.json",
+      "name": "🚀神仙" 
     }
     ]
     }
